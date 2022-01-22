@@ -23,7 +23,7 @@ $ python3 usb-camera-simple.py
 ```
 
 #### usb-camera-gst.py
-usb-camera-gst.py uses the GStreamer backend for OpenCV to interface with the camera (cv2.CAP_GSTREAMER). You are *not* able to use the V4l2 camera properties when using the GStreamer backend. There is a sample H.264 GStreamer pipeline, (commented out). This has been tested with a Logitech C920 webcam.
+usb-camera-gst.py uses the GStreamer backend for OpenCV to interface with the camera (cv2.CAP_GSTREAMER). You are *not* able to use the V4l2 camera properties when using the GStreamer backend. There is a sample H.264 GStreamer pipeline, (commented out). This has been tested with a [Logitech C920 webcam](https://amzn.to/3qQzKfi).
 
 To run:
 ```
@@ -91,4 +91,4 @@ $ sudo apt install libcanberra-gtk-module
 * Initial Release
 * JetPack 4.6.1, L4T 32.6.1
 * Tested on Jetson Nano and Jetson Xavier NX
-* Cameras tested: Logitech C920, Stereolabs ZED, Intel Realsense D435
+* Cameras tested: [Logitech C920 webcam](https://amzn.to/3qQzKfi), Stereolabs ZED, [Intel Realsense D435[(https://amzn.to/32ltans)
