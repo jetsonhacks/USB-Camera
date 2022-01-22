@@ -91,4 +91,4 @@ $ sudo apt install libcanberra-gtk-module
 * Initial Release
 * JetPack 4.6.1, L4T 32.6.1
 * Tested on Jetson Nano and Jetson Xavier NX
-* Cameras tested: [Logitech C920 webcam](https://amzn.to/3qQzKfi), Stereolabs ZED, [Intel Realsense D435[(https://amzn.to/32ltans)
+* Cameras tested: [Logitech C920 webcam](https://amzn.to/3qQzKfi), Stereolabs ZED, [Intel Realsense D435](https://amzn.to/32ltans)
