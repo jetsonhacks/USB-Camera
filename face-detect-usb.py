@@ -1,5 +1,5 @@
 # MIT License
-# Copyright (c) 2019 JetsonHacks
+# Copyright (c) 2019-2025 JetsonHacks
 # See LICENSE for OpenCV license and additional information
 
 # https://docs.opencv.org/3.3.1/d7/d8b/tutorial_py_face_detection.html

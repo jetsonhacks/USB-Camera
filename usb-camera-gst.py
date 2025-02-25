@@ -2,7 +2,7 @@
 #
 #  USB Camera - Simple
 #
-#  Copyright (C) 2021-22 JetsonHacks (info@jetsonhacks.com)
+#  Copyright (C) 2021-25 JetsonHacks (info@jetsonhacks.com)
 #
 #  MIT License
 #
